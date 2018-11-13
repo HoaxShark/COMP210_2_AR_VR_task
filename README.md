@@ -43,6 +43,14 @@ For market research I will be looking specifically for games using similar mecha
 Tiny Town VR is a casual world-building game in virtual reality with a price point of £10.99. I bring this game to light as it is based in VR and has poseable models.
 The game itself isn't focused on this posing mechanic, and the game I create will give much more precision in the posing controls of the model.
 
+![Waltz of the Wizard](https://steamcdn-a.akamaihd.net/steam/apps/436820/header.jpg?t=1539707517)
+
+Waltz of the Wizard is a virtual reality experience that lets you feel what it’s like to have magical powers and it's totally free! This game has many different aspects but the one I find interest in is one item that is a wooden artist mannequin. You are able to accurately move the different limbs of this model. Something similar to this would be good for my game.
+
+![Hole in the Wall](http://123kinect.com/wp-content/uploads/2011/08/hole-in-the-wall-kinect.jpg)
+
+Hole in the Wall is a Xbox Kinect game based on the tv show that challenges you to become a human puzzle piece as you contort to fit through wacky shapes that are cut out into themed walls hurtling towards you. This game shows exactly the sort of mechanic that would be used in my game, but requiring players to move their own body instead. Reviews of this are lackluster often complaining that they could not fit the holes given to them. My game will not suffer from this issue as the model used for posing is given to the user and all poses will be tested in development to make sure they fit.
+
 
 
 
