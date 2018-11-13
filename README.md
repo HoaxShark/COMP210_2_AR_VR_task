@@ -33,7 +33,19 @@ For the marionette I believe a fun way to use this mechanic would be to create a
 For the poseable model I have taken a real liking to the idea of having to pose the model into specific poses that will allow it to get through a gap in an approaching wall. The fun in this game comes from posing the model into poses, some being whimsical that a normal human probably couldn't do. The scale of this idea is smaller than the marrionette game allowing for greater polishing. I've been pointed towards an old game show called "hole in the wall" which does exactly what I was considering but using the players body in real life instead of a model in virtual reality. Issues that I have considered with this idea is that the accuracy in which you are able to quickly pose the model will need to be very good. The fact that you have a time limit in which to pose the model could put some people off from the game, to combat this I could create an untimed mode where you purely have to pose the model into requested poses.
 
 # Game Proposal
-I have decided to create a game which is a slight homage to the gameshow "hole in the wall". The player will have a poseable human model, they will need to pose the model to match the hole shown in the oncoming wall. 
+I have decided to create the game where the poseable model is required to be set into given poses. The player will have the ability to change the models poses with both of thier hands. The main game will offer requested poses in the form of an oncoming wall with a gap in it that you must make the model fit through. If there is enough time I will make a relaxed version where you are given just a pose to match not requiring the player to worry about time set in place with an oncoming wall.
+
+### Market Research
+For market research I will be looking specifically for games using similar mechanics, mostly focused in VR but with the posibility of bringing information from other platforms if the mechanics are close enough to my product.
+
+![Tiny Town VR](https://steamcdn-a.akamaihd.net/steam/apps/653930/header.jpg?t=1516678143)
+
+Tiny Town VR is a casual world-building game in virtual reality with a price point of £10.99. I bring this game to light as it is based in VR and has poseable models.
+The game itself isn't focused on this posing mechanic, and the game I create will give much more precision in the posing controls of the model.
+
+
+
+
 
 https://www.imore.com/valve-knuckles-controllers-everything-you-need-know
 https://arstechnica.com/gaming/2017/06/valve-tries-to-one-up-oculus-touch-with-five-finger-knuckles-vr-controller/
