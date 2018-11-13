@@ -25,5 +25,8 @@ Having this ability could would work really well with posing a model. But this n
 
 ![Controller Layout](https://cdn.arstechnica.net/wp-content/uploads/2017/06/knuckles2.png)
 
+# Game Proposal
+Having looked at initial ideas and considering how they could be incorperated into a game I have decided to create a game which is a slight homage to the gameshow "hole in the wall". The player will have a poseable human model, they will need to pose the model to match the hole shown in the oncoming wall. 
+
 https://www.imore.com/valve-knuckles-controllers-everything-you-need-know
 https://arstechnica.com/gaming/2017/06/valve-tries-to-one-up-oculus-touch-with-five-finger-knuckles-vr-controller/
