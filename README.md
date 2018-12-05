@@ -61,6 +61,8 @@ I will then break these down into user stories.
 * Walls with holes big enough to fit the player will continually approach the player/model with differences in where the hole is
 * Player is able to see the remaining health of the model
 
+After peer review it was highlighted that having the player see the health of the model should be a key requirement so i have added it above and created a new user story for it.
+
 ## User Stories
 
 As the Player I want to be able to move the model around with my virtual hands
