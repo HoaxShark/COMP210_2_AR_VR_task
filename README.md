@@ -73,3 +73,15 @@ As the player I want to be able to easily setup and play the game in VR
 
 As the player I want to be able to view the model remaining health
 
+## Design Details
+After giving the above thought as to what the game will need I will now state my plans on how to implement these requirements.
+
+Having looked a bit into the ease of implementation for VR and considering my current knowledge of avaliable game engines I will be creating the project in Unity. Premade assests are avaliable for smoothly bringing a Unity project into a VR environment. These are called SteamVR Plugin and I will be using these free assests to link the game with the VR headset and the controllers.
+
+I will take a premade human model that has already been rigged and then apply ragdoll physics to that model in Unity, with the previous knowledge of doing a similar thing for our current group project game I believe this should go well.
+
+I will create a wall with a gap in it and use this multiple times with different rotations to provide the differences in where the hole is. I have chosen to use only one wall with hole as my 3D modeling isn't great and I believe it may be difficult for me to make. To save on resources I will have a set number of walls created at run time and then reposition them back to the start once they have past the player, giving them a new rotation.
+
+The walls will have a script to move them forwards at a set speed, and the model will send information about its collisions with the walls to a player script that will manage the damage input and keep track of health.
+
+Lastly I will attach a health bar to one of the players hands, this health bar will be linked to the players health and decrease in size as the health lowers. Having it attached to the hand should mean that it is always easily veiwable for the player.
