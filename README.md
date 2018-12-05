@@ -51,6 +51,19 @@ Waltz of the Wizard is a virtual reality experience that lets you feel what itâ€
 
 Hole in the Wall is a Xbox Kinect game based on the tv show that challenges you to become a human puzzle piece as you contort to fit through wacky shapes that are cut out into themed walls hurtling towards you. This game shows exactly the sort of mechanic that would be used in my game, but requiring players to move their own body instead. Reviews of this are lackluster often complaining that they could not fit the holes given to them. My game will not suffer from this issue as the model used for posing is given to the user and all poses will be tested in development to make sure they fit.
 
+## User Stories
+
+As the Player I want to be able to move the model around with my virtual hands
+
+As the Player I want to be able to lose the game
+
+As the player I want to be able to see the holes and walls coming towards me
+
+As the player I want to be able to easily setup and play the game in VR
+
+As the player I want to be able to view the model remaining health
+
+
 
 
 
