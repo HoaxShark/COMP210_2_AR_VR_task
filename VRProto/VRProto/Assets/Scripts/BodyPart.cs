@@ -19,7 +19,7 @@ public class BodyPart : MonoBehaviour {
     // sends the collision over to the player
     void OnCollisionEnter(Collision collision)
     {
-        if (collision.collider.tag == "Wall")
+        if (collision.collider.tag == "Wall" | collision.collider.tag == "End" | collision.collider.tag == "Debris")
         {
             player.CollisionDetected(collision);
         }

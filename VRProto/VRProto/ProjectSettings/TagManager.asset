@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Wall
   - End
+  - Debris
   layers:
   - Default
   - TransparentFX

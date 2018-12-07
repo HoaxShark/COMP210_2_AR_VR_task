@@ -16,7 +16,6 @@ public class Player : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        Debug.Log(health);
         if (Input.GetKeyDown(KeyCode.R)) // restart scene on R
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
@@ -30,6 +29,10 @@ public class Player : MonoBehaviour {
     public void CollisionDetected(Collision collision)
     {
         if (collision.transform.tag == "Wall") // if colliding with a wall reduce health
+        {
+            health -= damage;
+        }
+        if (collision.transform.tag == "Debris") // if colliding with a wall reduce health
         {
             health -= damage;
         }
