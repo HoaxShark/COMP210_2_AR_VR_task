@@ -1,5 +1,4 @@
-### Link to github repo
-https://github.com/HoaxShark/COMP210_2_AR_VR_task
+Link to github repo - https://github.com/HoaxShark/COMP210_2_AR_VR_task
 
 # Introduction
 This project will be implementing a game mechanic in virtual reality, creating something inovative.
@@ -63,8 +62,9 @@ I will then break these down into user stories.
 * Player can touch and push the model with virtual hands tied to the VR controllers
 * Walls with holes big enough to fit the player will continually approach the player/model with differences in where the hole is
 * Player is able to see the remaining health of the model
+* Debris spawns at intervals and can bounce around, dealing damage if hitting the model
 
-After peer review it was highlighted that having the player see the health of the model should be a key requirement so i have added it above and created a new user story for it.
+After peer review it was highlighted that having the player see the health of the model should be a key requirement so i have added it above and created a new user story for it. Another highlighted issue was the game being too easy, to combat this and add another level of complexity I will be adding debris that will bounce around and must be avoided by moving the player. I will again add this to key requirements and create a user story.
 
 ## User Stories
 
@@ -78,6 +78,8 @@ As the player I want to be able to easily setup and play the game in VR
 
 As the player I want to be able to view the model remaining health
 
+As the Player I want to be able to see the debris coming so that I can move the model to avoid it
+
 ## Design Details
 After giving the above thought as to what the game will need I will now state my plans on how to implement these requirements.
 
@@ -89,4 +91,6 @@ I will create a wall with a gap in it and use this multiple times with different
 
 The walls will have a script to move them forwards at a set speed, and the model will send information about its collisions with the walls to a player script that will manage the damage input and keep track of health.
 
-Lastly I will attach a health bar to one of the players hands, this health bar will be linked to the players health and decrease in size as the health lowers. Having it attached to the hand should mean that it is always easily veiwable for the player.
+Next I will attach a health bar to one of the players hands, this health bar will be linked to the players health and decrease in size as the health lowers. Having it attached to the hand should mean that it is always easily veiwable for the player.
+
+Lastly I will create a debris spawner that keeps a maximum number of debris spawned, checking to spawn another at set intervals. The debris will move towards the end of the scene and bounce off of the walls and model dealing damage to the model when hitting it.
