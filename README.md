@@ -3,6 +3,24 @@ Link to github repo - https://github.com/HoaxShark/COMP210_2_AR_VR_task
 # Introduction
 This project will be implementing a game mechanic in virtual reality, creating something inovative.
 
+## The prototype
+Before you look below into the market research and design ideas, I'd like to take you to the end of the project and give you a quick view of the prototype. The final concept is that you have a model that you move around with your hands in VR and try to avoid walls and debris coming towards you.\
+\
+\
+![Dodging](gifs/Dodging2.gif)
+
+You can see here how you move the model around by pushing its body about, positioning it to avoid the wall. Pushing around the model is surprisingly statisfying to do.\
+\
+\
+![Debris](gifs/Debris.gif)
+
+This one shows of the debris that you need to move the model to avoid as it bounces around the play area. This adds another level of complexity as you need to start considering the paths of the debris.\
+\
+\
+![Dying](gifs/Dying.gif)
+
+Lastly this gif shows how the model can be killed if hit too many times by a wall or debris. Highlighting the health bar attached to the players hand and how the game resets.
+
 ## Initial Research
 Going into this research I have an initial idea I am interested in looking into. Making a marionette in the virtual world that will be controlled by a player.
 
