@@ -1,3 +1,6 @@
+### Link to github repo
+https://github.com/HoaxShark/COMP210_2_AR_VR_task
+
 # Introduction
 This project will be implementing a game mechanic in virtual reality, creating something inovative.
 
